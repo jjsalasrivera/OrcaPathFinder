@@ -1,4 +1,4 @@
-# OrcaPathFinder
+# OrcaPathFinder
 
 This is a simple program trying to find the shortest path between two points crosing line segments. This program is a possible solution of the [Challenge - shortest path](https://github.com/orca-io/orca-challenges/tree/master/challenge-shortest-path) promoved by [Orca](https://getorca.com/)
 
